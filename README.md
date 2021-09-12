@@ -33,7 +33,7 @@ It's all possible using [GitHub API](https://developer.github.com/v3/) (for auto
 ✓ [Projects](#projects)\
 ✓ [Blog Posts](#blog-posts)
 
-To view a live example, **[click here](https://arifszn.github.io/ezprofile)**.
+To view a live example, **[click here](https://shakibmostahid.github.io/ezprofile)**.
 
 
 ## 🛠 Installation & Set Up
