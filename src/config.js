@@ -19,7 +19,7 @@ module.exports = {
         devto: '',
         website: 'https://shakibmostahid.github.io',
         phone: '',
-        email: 'contact@abc.com'
+        email: 'shakib.mostahid@outlook.com'
     },
     skills: [
         'PHP',
