@@ -23,37 +23,38 @@ module.exports = {
     },
     skills: [
         'PHP',
-        'Laravel',
-        'JavaScript',
-        'React.js',
-        'Vue.js',
-        'Node.js',
-        'Jquery',
+        'OOP',
+        'MVC',
         'MySQL',
-        'Git',
-        'CSS',
-        'Antd',
-        'Tailwind',
-        'Bootstrap',
+        'Phalcon',
+        'Laravel',
+        'HTML/ CSS',
+        'JavaScript',
+        'Jquery',
+        'C/C++',
+        'React.js',
+        'GIT',
+        'Docker',
+        'AWS (Server)',
     ],
     experiences: [
         { 
-            company: 'Monstarlab Bangladesh',
+            company: 'Orbit Informatics LTD.',
             position: 'Software Engineer',
-            from: 'September 2021',
+            from: 'June 2021',
             to: 'Present'
         },
         { 
-            company: 'Orangetoolz - My Offer 360 Degree',
-            position: 'Jr. Full Stack Engineer',
-            from: 'July 2019',
-            to: 'August 2021'
+            company: 'Orbit Informatics LTD.',
+            position: 'Jr. Software Engineer',
+            from: 'April 2019',
+            to: 'May 2021'
         },
         { 
-            company: 'Techvillage',
-            position: 'Jr. Software Engineer',
-            from: 'January 2019',
-            to: ' June 2019'
+            company: 'Orbit Informatics LTD.',
+            position: 'Software Engineer Intern',
+            from: 'December 2018',
+            to: ' March 2019'
         }
     ],
     education: [
@@ -64,27 +65,27 @@ module.exports = {
             to: '2019'
         },
         { 
-            institution: 'Cantonment College, Jessore',
+            institution: 'Govt. Laboratory School and College',
             degree: 'Higher Secondary Certificate (HSC)',
-            from: '2012',
-            to: '2014',
+            from: '2013',
+            to: '2015',
         },
         { 
-            institution: 'Chowgacha Shahadat Pilot High School',
+            institution: 'Govt. Science College Attached High School',
             degree: 'Secondary School Certificate (SSC)',
-            from: '2007',
-            to: '2012'
+            from: '2003',
+            to: '2013'
         }
     ],
     blog: {
         // Display blog posts from your medium or dev.to account. (Optional)
-        source: 'dev.to', // medium | dev.to
-        username: 'arifszn',
-        limit: 2 // How many posts to display. Max is 10.
+        source: '', // medium | dev.to
+        username: '',
+        limit: 0 // How many posts to display. Max is 10.
     },
     googleAnalytics: {
         // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
-        id: 'G-WLLB5E14M6' // Please remove this and use your own tag id
+        id: '' // Please remove this and use your own tag id
     },
     themeConfig: {
         default: 'light',
