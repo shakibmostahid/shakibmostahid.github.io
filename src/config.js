@@ -5,7 +5,7 @@ module.exports = {
         sortBy: 'stars', // stars | updated
         limit: 8, // How many projects to display.
         exclude: {
-            forks: false, // Forked projects will not be displayed if set to true.
+            forks: true, // Forked projects will not be displayed if set to true.
             projects: [] // These projects will not be displayed. example: ['my-project1', 'my-project2']
         }
     },
@@ -39,10 +39,16 @@ module.exports = {
     ],
     experiences: [
         { 
+            company: 'Brain Station 23 LTD.',
+            position: 'Associate Software Engineer',
+            from: 'February 2022',
+            to: 'Present'
+        },
+        { 
             company: 'Orbit Informatics LTD.',
             position: 'Software Engineer',
             from: 'June 2021',
-            to: 'Present'
+            to: 'January 2022'
         },
         { 
             company: 'Orbit Informatics LTD.',
